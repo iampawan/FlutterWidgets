@@ -5,7 +5,7 @@ A collection of flutter widgets with tutorials.
 ## Episode 1 - Sized Box
 
 ### Screenshot
-<img src="ss/ss1.png" height="200px" >
+<img src="ss/ss1.png" height="400px" >
 
 
 ## Getting Started
