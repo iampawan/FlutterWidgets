@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutterwidgets/Episode2_AnimatedBuilder/animated_builder.dart';
+import 'package:flutterwidgets/Episode3_Draggable/draggable_widget.dart';
 
-void main() => runApp(MaterialApp(
-  home: AnimatedBuilderExample()
-));
+void main() => runApp(MaterialApp(home: Episode3()));
