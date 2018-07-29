@@ -1,4 +1,7 @@
-import 'package:flutter/material.dart';
-import 'package:flutterwidgets/Episode3_Draggable/draggable_widget.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutterwidgets/Episode4_Cupertino/cupertino_example.dart';
 
-void main() => runApp(MaterialApp(home: Episode3()));
+void main() => runApp(CupertinoApp(
+      home: Episode4(),
+      debugShowCheckedModeBanner: false,
+    ));
