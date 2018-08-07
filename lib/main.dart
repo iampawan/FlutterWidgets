@@ -1,7 +1,7 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutterwidgets/Episode4_Cupertino/cupertino_example.dart';
+import 'package:flutter/material.dart';
+import 'package:flutterwidgets/Episode5_DataTable/datatable_example.dart';
 
-void main() => runApp(CupertinoApp(
-      home: Episode4(),
+void main() => runApp(MaterialApp(
+      home: Episode5(),
       debugShowCheckedModeBanner: false,
     ));

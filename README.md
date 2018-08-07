@@ -10,6 +10,8 @@ A collection of flutter widgets with tutorials.
 
 ## Episode 4 - Welcome to the World of Cupertino (iOS)
 
+## Episode 5 - Data Table
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
