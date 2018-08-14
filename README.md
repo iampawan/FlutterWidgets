@@ -12,6 +12,8 @@ A collection of flutter widgets with tutorials.
 
 ## Episode 5 - Data Table
 
+## Episode 6 - WebView / Browser App
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
