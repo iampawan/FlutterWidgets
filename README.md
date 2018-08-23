@@ -14,6 +14,8 @@ A collection of flutter widgets with tutorials.
 
 ## Episode 6 - WebView / Browser App
 
+## Episode 7 - Overlay Widget
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
