@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutterwidgets/Episode7_Overlay/overlay_example.dart';
+import 'package:flutterwidgets/Episode8/episode8_example.dart';
 
 void main() => runApp(MaterialApp(
-      home: OverlayExample(),
+      home: Example8(),
       debugShowCheckedModeBanner: false,
     ));
