@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutterwidgets/Episode8/episode8_example.dart';
+import 'package:flutterwidgets/Season2/s02e01.dart';
 
 void main() => runApp(MaterialApp(
-      home: Example8(),
+      home: S02E01(),
       debugShowCheckedModeBanner: false,
     ));
