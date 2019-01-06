@@ -2,6 +2,8 @@
 
 A collection of flutter widgets with tutorials.
 
+# Season 1
+
 ## Episode 1 - Sized Box
 
 ## Episode 2 - Animated Builder
@@ -15,6 +17,12 @@ A collection of flutter widgets with tutorials.
 ## Episode 6 - WebView / Browser App
 
 ## Episode 7 - Overlay Widget
+
+## Episode 8 - PlaceHolder, Spacer, Visibility Widget
+
+# Season 2
+
+## Episode 1 - Reordable ListView
 
 ## Getting Started
 
