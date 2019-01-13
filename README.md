@@ -24,6 +24,8 @@ A collection of flutter widgets with tutorials.
 
 ## Episode 1 - Reordable ListView
 
+## Episode 2 - 3D ListView (ListWheelScrollView)
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
