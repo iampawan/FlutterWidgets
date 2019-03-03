@@ -26,6 +26,8 @@ A collection of flutter widgets with tutorials.
 
 ## Episode 2 - 3D ListView (ListWheelScrollView)
 
+## Episode 3 - Universal Error Widget
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
